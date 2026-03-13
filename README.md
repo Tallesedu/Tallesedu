@@ -46,14 +46,6 @@ Widgets gerados com **GitHub Readme Stats**.
 
 ---
 
-# 🏆 Conquistas
-
-Widget gerado com **GitHub Profile Trophy**.
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tallesedu&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 # 👀 Visitas no Perfil
 
 Contador de visitas usando **Komarev Profile Counter**.
@@ -72,7 +64,7 @@ Gerado com **Platane Snake Animation**.
 
 # 📫 Contato
 
-- LinkedIn: [https://linkedin.com/in/SEU_PERFIL](https://br.linkedin.com/in/talles-edu)
+- LinkedIn: [https://linkedin.com/in/talles-edu](https://br.linkedin.com/in/talles-edu)
 - Email: tallesedu22@email.com
 
 ---
