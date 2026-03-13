@@ -63,7 +63,7 @@ Contador de visitas usando **Komarev Profile Counter**.
 # 📫 Contato
 
 - LinkedIn: [https://linkedin.com/in/talles-edu](https://br.linkedin.com/in/talles-edu)
-- Email: tallesedu22@email.com
+- Email: tallessallesdev@gmail.com
 
 ---
 
