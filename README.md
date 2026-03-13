@@ -1,9 +1,9 @@
 # 👋 Olá, eu sou Talles!
 
-🚀 Desenvolvedor Full Stack  
-💻 Trabalho com Node.js, PHP, bancos de dados e aplicações web 
-🧠 Pós em Sistemas e Agentes Inteligentes
-⚡ Interesses: Backend, automação, IA e arquitetura de sistemas  
+- 🚀 Desenvolvedor Full Stack  
+- 💻 Trabalho com Node.js, PHP, bancos de dados e aplicações web 
+- 🧠 Pós em Sistemas e Agentes Inteligentes
+- ⚡ Interesses: Backend, automação, IA e arquitetura de sistemas  
 
 ---
 
