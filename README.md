@@ -54,14 +54,6 @@ Contador de visitas usando **Komarev Profile Counter**.
 
 ---
 
-# 🐍 Contribuições (Snake Animation)
-
-Gerado com **Platane Snake Animation**.
-
-![snake gif](https://github.com/Tallesedu/Tallesedu/blob/output/github-contribution-grid-snake.svg)
-
----
-
 # 📫 Contato
 
 - LinkedIn: [https://linkedin.com/in/talles-edu](https://br.linkedin.com/in/talles-edu)
