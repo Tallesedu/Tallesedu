@@ -1,4 +1,10 @@
-# 👋 Olá, eu sou Talles!
+<div align="center">
+
+# 👋 Olá, eu sou Talles
+
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;Node.js+%7C+PHP+%7C+Databases;Agents+AI" />
+
+</div>
 
 - 🚀 Desenvolvedor Full Stack  
 - 💻 Trabalho com Node.js, PHP, bancos de dados e aplicações web 
