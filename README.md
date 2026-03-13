@@ -1,7 +1,8 @@
 # 👋 Olá, eu sou Talles!
 
 🚀 Desenvolvedor Full Stack  
-💻 Trabalho com Node.js, PHP, bancos de dados e aplicações web  
+💻 Trabalho com Node.js, PHP, bancos de dados e aplicações web 
+🧠 Pós em Sistemas e Agentes Inteligentes
 ⚡ Interesses: Backend, automação, IA e arquitetura de sistemas  
 
 ---
@@ -35,13 +36,13 @@ Badges gerados com **Shields.io**.
 
 Widgets gerados com **GitHub Readme Stats**.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tallesedu&show_icons=true&theme=tokyonight)
 
 ---
 
 # 📈 Linguagens mais utilizadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tallesedu&layout=compact&theme=tokyonight)
 
 ---
 
@@ -49,7 +50,7 @@ Widgets gerados com **GitHub Readme Stats**.
 
 Widget gerado com **GitHub Profile Trophy**.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tallesedu&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -57,7 +58,7 @@ Widget gerado com **GitHub Profile Trophy**.
 
 Contador de visitas usando **Komarev Profile Counter**.
 
-![](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue)
+![](https://komarev.com/ghpvc/?username=Tallesedu&color=blue)
 
 ---
 
@@ -65,14 +66,14 @@ Contador de visitas usando **Komarev Profile Counter**.
 
 Gerado com **Platane Snake Animation**.
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Tallesedu/Tallesedu/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 # 📫 Contato
 
-- LinkedIn: https://linkedin.com/in/SEU_PERFIL
-- Email: seuemail@email.com
+- LinkedIn: [https://linkedin.com/in/SEU_PERFIL](https://br.linkedin.com/in/talles-edu)
+- Email: tallesedu22@email.com
 
 ---
 
